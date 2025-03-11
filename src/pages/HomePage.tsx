@@ -45,7 +45,7 @@ function HomePage() {
         <div 
           className="absolute inset-0 bg-cover bg-center"
           style={{
-            backgroundImage: "url('./images/school3.jpg')",
+            backgroundImage: "url('/images/school3.jpg')",
           }}
         >
           <div className="absolute inset-0 bg-blue-900/80"></div>
